@@ -1,0 +1,17 @@
+<!DOCTYPE html>
+<html>
+<body>
+
+<h2>Pemahaman js query</h2>
+
+<p id="demo"></p>
+
+<script type="text/javascript">
+	var names = ["Andi", {"Name":"Gunawan","Address":"Jl. Kemerdekaan 01"}, "Budi"];
+    var modif = Object.entries(names[1]);
+	
+	document.getElementById("demo").innerHTML = modif
+</script>
+
+</body>
+</html>

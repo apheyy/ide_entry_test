@@ -1,0 +1,14 @@
+1. buka link git yang kita punya
+2. masuk ke main repository
+3. klik main branch jika kita belum memiliki branch
+4. tulis nama branch baru
+5. pilih add branch
+6. branch baru sudah di buat
+7. commit sebuah file baru pada branch yang baru
+8. kembali pada main branch
+9. pilih pull request
+10. beri komentar pada pull request
+11. submit
+12. jika tidak ada conflict akan muncul merge pull request
+13. pilih merge request dan confirm merge
+14. pull request success

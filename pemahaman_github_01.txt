@@ -1,0 +1,12 @@
+1. Pergi ke halaman utama dari source git kita
+2. lalu pilih icon Code
+3. akan muncul pilihan clone dengan HTTPS/SSH
+4. pilih HTTPS lalu klik tombol di samping link yang ada
+5. jika sudah buka git bash lalu pilih lokasi untuk cloning repo
+6. ketik comand git clone lalu paste link yang tadi sudah di copy "git clone https://github.com/apheyy/ide_entry_test.git" dan klik enter
+7. proses akan berjalan sampai selesai
+8. jika proses sudah selesai
+9. pilih add file pada link github tersebut
+10. tambahkan file yang ingin di upload
+11. tulis comment dan pilih commit file
+12. proses penambahan selesai

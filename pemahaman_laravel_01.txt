@@ -1,0 +1,1 @@
+.env merupakan fitur untuk konfigurasi pada laravel begitu juga dengan file pada directory config. namun .env membantu mengumpulkan semua config dalam 1 file saja, jadi kita tidak perlu memodifikasi di lebih dari 1 file config. jika terdapat 2 config (pada folder config dan file .env) maka konfigurasi yang akan diutamakan adalah konfigurasi pada file .env

@@ -1,0 +1,1 @@
+query yang diberikan tidak dapat dijalankan karena pada saat insert kita berusaha memberikan nilai pada id, padahal kita sudah memberikan setting bahwa itu akan diisi secara otomatis
